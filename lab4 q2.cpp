@@ -1,7 +1,6 @@
 # lab4
 //ques 2
 #include <iostream>
-#include<cmath>
 
 using namespace std;
 
